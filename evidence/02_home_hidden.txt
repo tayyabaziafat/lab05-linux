@@ -1,0 +1,17 @@
+total 64
+drwxr-x--- 10 tayyabaziafat tayyabaziafat 4096 Oct 16 04:07 .
+drwxr-xr-x  3 root          root          4096 Sep 12 12:53 ..
+-rw-------  1 tayyabaziafat tayyabaziafat  936 Oct  6 06:37 .bash_history
+-rw-r--r--  1 tayyabaziafat tayyabaziafat  220 Feb 13  2026 .bash_logout
+-rw-r--r--  1 tayyabaziafat tayyabaziafat 3771 Feb 13  2026 .bashrc
+drwx------  2 tayyabaziafat tayyabaziafat 4096 Sep 12 13:24 .cache
+-rw-rw-r--  1 tayyabaziafat tayyabaziafat  191 Oct 16 04:04 .gitconfig
+-rw-------  1 tayyabaziafat tayyabaziafat   20 Oct  7 09:20 .lesshst
+drwx------  3 tayyabaziafat tayyabaziafat 4096 Oct  6 06:48 .local
+-rw-r--r--  1 tayyabaziafat tayyabaziafat  807 Feb 13  2026 .profile
+drwx------  2 tayyabaziafat tayyabaziafat 4096 Oct 16 03:57 .ssh
+drwxrwxr-x  3 tayyabaziafat tayyabaziafat 4096 Oct  7 08:17 Assignment01
+drwxrwxr-x  3 tayyabaziafat tayyabaziafat 4096 Oct  6 06:05 Gitea
+drwxrwxr-x  5 tayyabaziafat tayyabaziafat 4096 Oct 16 04:09 lab05-linux
+drwxrwxr-x  2 tayyabaziafat tayyabaziafat 4096 Sep 18 15:17 mylab
+drwxrwxr-x  3 tayyabaziafat tayyabaziafat 4096 Oct  7 10:31 tayyabaziafat.github.io
